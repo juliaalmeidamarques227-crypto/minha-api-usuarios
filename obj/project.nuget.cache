@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cDJM5KJQ9nU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia\\ExerciciosCSharp\\MinhaApi\\MinhaApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
