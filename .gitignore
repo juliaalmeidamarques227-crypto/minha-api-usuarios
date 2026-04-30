@@ -1,0 +1,15 @@
+# Pastas de build
+bin/
+obj/
+
+# Arquivos de usuário do Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configs do VS Code
+.vscode/
+
+# Outros
+*.DS_Store
